@@ -1,0 +1,9 @@
+edu\unoesc\controller\ProdutosController.class
+edu\unoesc\model\Produto.class
+edu\unoesc\dao\ProdutoDAOImpl.class
+edu\unoesc\controller\PessoaController.class
+edu\unoesc\dao\PessoaDAOImpl.class
+edu\unoesc\dao\ProdutoDAO.class
+edu\unoesc\model\Pessoa.class
+edu\unoesc\dao\PessoaDAO.class
+edu\unoesc\controller\HomeController.class
